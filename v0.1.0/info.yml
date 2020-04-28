@@ -1,0 +1,14 @@
+configuration:
+
+supported_engines:
+
+requires_shotgun_fields:
+
+display_name: "Batch Publisher..."
+description: "Batch pulish asset files data to shotgun."
+
+requires_shotgun_version:
+requires_core_version: "v0.19.3"
+requires_engine_version:
+
+frameworks:

@@ -1,0 +1,18 @@
+QTreeWidget{
+    border:none;
+}
+QTreeView{
+    outline: 0px;
+}
+QProgressBar{
+        border: none;
+        border-radius: 4px;
+        color: white;
+        text-align: center;
+        background: rgb(50,50,50);
+}
+QProgressBar::chunk {
+        border: none;
+        background: rgb(0, 160, 230);
+        border-radius: 4px;
+}
